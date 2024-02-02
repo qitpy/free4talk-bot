@@ -18,7 +18,7 @@ def init():
     options.add_argument("--user-data-dir=/home/qitpy/.config/google-chrome")
 
     driver = webdriver.Chrome(options=options)
-    driver.get("https://www.free4talk.com/room/Ic739")
+    driver.get("https://www.free4talk.com/room/xJ1ff?key=325752")
 
     sleep()
     # click on the avatar of screen
